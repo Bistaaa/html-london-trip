@@ -1,3 +1,4 @@
 # html-london-trip
 
-![](screenshot/html-london-trip-video.mp4)
+![](screenshots/html-london-trip-img1.png)
+![](screenshots/html-london-trip-img2.png)
